@@ -1,0 +1,9 @@
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\TasksApi_NET.exe
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\publish\web.config
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\publish\TasksApi_NET.deps.json
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\publish\TasksApi_NET.runtimeconfig.json
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\publish\TasksApi_NET.staticwebassets.endpoints.json
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\TasksApi_NET.dll
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\TasksApi_NET.deps.json
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\TasksApi_NET.runtimeconfig.json
+C:\Users\Stu\Desktop\yt nhj;\bin\Release\net10.0\publish\TasksApi_NET.pdb

@@ -1,0 +1,5 @@
+C:\Users\Stu\Desktop\кт 3 devops\publish\TasksApi_NET.exe
+C:\Users\Stu\Desktop\кт 3 devops\publish\TasksApi_NET.dll
+C:\Users\Stu\Desktop\кт 3 devops\publish\TasksApi_NET.deps.json
+C:\Users\Stu\Desktop\кт 3 devops\publish\TasksApi_NET.runtimeconfig.json
+C:\Users\Stu\Desktop\кт 3 devops\publish\TasksApi_NET.pdb
