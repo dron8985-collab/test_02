@@ -1,0 +1,10 @@
+C:\Users\Stu\Desktop\докер компоуз\src\publish\TasksApi.exe
+C:\Users\Stu\Desktop\докер компоуз\src\publish\TasksApi.dll
+C:\Users\Stu\Desktop\докер компоуз\src\publish\TasksApi.deps.json
+C:\Users\Stu\Desktop\докер компоуз\src\publish\TasksApi.runtimeconfig.json
+C:\Users\Stu\Desktop\докер компоуз\src\publish\TasksApi.pdb
+C:\Users\Stu\Desktop\докер компоуз\src\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Stu\Desktop\докер компоуз\src\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Stu\Desktop\докер компоуз\src\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Stu\Desktop\докер компоуз\src\publish\Npgsql.dll
+C:\Users\Stu\Desktop\докер компоуз\src\publish\Npgsql.EntityFrameworkCore.PostgreSQL.dll
